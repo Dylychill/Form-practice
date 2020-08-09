@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import Formy from './Form'
+// import * from yup;
 
 const loginForm=[
   {name:'username', type:'text'},
